@@ -414,12 +414,12 @@ p.big-paragraph {
 .navbar-default .navbar-nav>li:hover {
 }
 .navbar-default .navbar-nav>li>a {
-	color: #a9a9a9;
+	color: #6dc5b5;
 	border-top: 2px solid transparent;
 	font-size: 11px;
 	padding: 25px 20px;
 	font-weight: 400;
-	font-family: 'Open Sans', sans-serif;
+	font-family: 'Podkova', sans-serif;
 	box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	display: inline-block;
@@ -450,6 +450,7 @@ ul.dropdown-menu {
 	-o-border-radius: 0px;
 	-ms-border-radius: 0px;
 	border: none;
+	color: #a9a9a9;
 	background: #0061a9;
 	box-shadow: none;
 	-moz-box-shadow: none;
@@ -489,7 +490,7 @@ ul.dropdown-menu li:first-child {
 	-o-border-radius: 0px;
 }
 ul.dropdown-menu>li>a {
-	color: #0061a9;
+	color: #6dc5b5;
 	border-top: none;
 	font-size: 11px;
 	line-height: 11px;
@@ -497,17 +498,17 @@ ul.dropdown-menu>li>a {
 	text-transform: uppercase;
 }
 ul.dropdown-menu>li>a:hover {
-	color: #0061a9;
+	color: #6dc5b5;
 	border-top: none;
 	background: #d5a00f;
 }
 /*Buttons*/
 .btn {
-	font-family: Arial, Helvetica, sans-serif;
+	font-family: 'Podkova', Helvetica, sans-serif;
 }
 .btn-primary {
 	font-size: 14px;
-	font-family: Calibri, sans-serif;
+	font-family: 'Podkova', sans-serif;
 	text-transform: none;
 	color: #fff;
 	border-radius: 0px;
@@ -525,7 +526,7 @@ ul.dropdown-menu>li>a:hover {
 }
 .btn-info {
 	font-size: 14px;
-	font-family: Calibri, sans-serif;
+	font-family: 'Podkova', sans-serif;
 	text-transform: none;
 	color: #434a4a;
 	border-radius: 0px;
@@ -543,7 +544,7 @@ ul.dropdown-menu>li>a:hover {
 }
 .btn-default {
 	font-size: 14px;
-	font-family: Calibri, sans-serif;
+	font-family: 'Podkova', sans-serif;
 	text-transform: none;
 	color: #fff;
 	border-radius: 0px;
@@ -551,12 +552,12 @@ ul.dropdown-menu>li>a:hover {
 	-moz-border-radius: 0px;
 	-ms-border-radius: 0px;
 	-o-border-radius: 0px;
-	border-color: #dfdfdf;
+	border-color: #d5a00f;
 	background: none;
 	background-color: rgb(9, 72, 150);
 }
 .btn-default:hover, .btn-default:focus {
-	background-color: rgba(162, 164, 8, 0.81);
+	background-color: #d5a00f;
 	border-color: rgba(162, 164, 8, 0.81);
 	color: #fff;
 }
