@@ -4,7 +4,7 @@ Custom Styles. Bootstrap Styles are default'
 * {
 }
 body {
-	font-family: Podkova, sans-serif;
+	font-family: 'Podkova', sans-serif;
 	color: #9e9ba8;
 	font-size: 14px;
 }
@@ -35,7 +35,7 @@ header.normal {
 .navbar-default .navbar-brand, .navbar-default .navbar-brand:hover {
 	font-size: 30px;
 	color: #d5a00f;
-	font-family: Podkova, Arial, sans-serif;
+	font-family: 'Podkova', Arial, sans-serif;
 	width: 100%;
 	font-weight: 300;
 	text-transform: uppercase;
@@ -47,10 +47,10 @@ header.normal {
 	font-weight: bold;
 }
 .navbar-default .navbar-brand a span {
-	color: #e74c3c;
+	color: #6dc5b5;
 }
 .navbar-default .navbar-brand span {
-	color: #e74c3c;
+	color: #6dc5b5;
 }
 /*Main Navigaion Menu*/
 .dropdown:hover .dropdown-menu {
@@ -156,7 +156,7 @@ ul.dropdown-menu li:first-child {
 	-o-border-radius: 0px;
 }
 ul.dropdown-menu>li>a {
-	color: #0061a9;
+	color: #d5a00f;
 	border-top: none;
 	font-size: 11px;
 	line-height: 11px;
@@ -164,9 +164,9 @@ ul.dropdown-menu>li>a {
 	text-transform: uppercase;
 }
 ul.dropdown-menu>li>a:hover {
-	color: #0061a9;
+	color: #6dc5b5;
 	border-top: none;
-	background: #d5a00f;
+	background: #6dc5b5;
 }
 /*Typography*/
 a {
