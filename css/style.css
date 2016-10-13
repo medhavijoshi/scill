@@ -227,7 +227,7 @@ h3 a:hover {
 }
 h3 small {
 	font-size: 14px;
-	color: #c7c7c7;
+	color: #6dc5b5;
 	text-transform: none;
 }
 .typo {
@@ -273,9 +273,12 @@ h2.with__margin2 {
 .container .row:first-child {
 	padding: 45px 0;
 }
+p.smally{
+	color: #6dc5b5;
+}
 p.big-paragraph {
 	font-size: 18px;
-	color: #c3c3c3;
+	color: #6dc5b5;
 	font-family: "Podkova", serif;
 }
 /* grey-info-block */
